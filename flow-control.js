@@ -3,3 +3,8 @@ function basicTeenager(){
     return "You are a teenager!"
   }
 }
+function basicTeenager(){
+  if(basicTeenager === 13 < 20){
+    return "You are a teenager!"
+  }
+}
