@@ -4,7 +4,7 @@ function basicTeenager(){
   }
 }
 function basicTeenager(){
-  if(basicTeenager === 13 < 20){
+  if(basicTeenager === 13 < 19){
     return "You are a teenager!"
   }
 }
